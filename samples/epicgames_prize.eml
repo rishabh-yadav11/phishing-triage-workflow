@@ -1,0 +1,33 @@
+Return-Path: <security@epicgames-support.com>
+Received: from mx.epicgames-support.com (mx.epicgames-support.com. [203.113.50.200])
+        by mx.victim.com with ESMTPS id bcd999
+        for <user@victim.com>; Sun, 25 Feb 2024 18:00:00 +0000 (UTC)
+Authentication-Results: mx.victim.com;
+    dkim=fail header.d=epicgames-support.com;
+    spf=fail;
+    dmarc=fail (p=none) header.from=epicgames.com
+Message-ID: <EPIC-PRIZE-2024-0225@epicgames-support.com>
+Date: Sun, 25 Feb 2024 18:00:00 +0000
+From: "Epic Games" <no-reply@epicgames.com>
+Reply-To: <winners@epicgames-support.com>
+To: <user@victim.com>
+Subject: Congratulations! You're the 1000th visitor - Free V-Bucks Claim
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body style="font-family: Arial, sans-serif; background-color: #1a1a2e;">
+<div style="max-width: 600px; margin: 0 auto; background: white; padding: 40px; text-align: center;">
+<h1 style="color: #00d4ff;">CONGRATULATIONS!</h1>
+<p>You have been randomly selected as our <strong>1000th visitor!</strong></p>
+<div style="background: #f0f0f0; padding: 30px; margin: 20px 0; border-radius: 10px;">
+<p style="font-size: 24px;"><strong>You've won:</strong></p>
+<p style="font-size: 36px; color: #00d4ff; font-weight: bold;">5,000 V-Bucks</p>
+<p style="font-size: 24px; color: #00d4ff;">+ Exclusive Skin Pack!</p>
+</div>
+<p>To claim your prize, enter your Epic Games username and password:</p>
+<p><a href="http://epic-prize-claim.tk/winner" style="background: #00d4ff; color: #1a1a2e; padding: 14px 28px; text-decoration: none; border-radius: 4px; font-weight: bold;">CLAIM PRIZE NOW</a></p>
+<p>Offer expires in 24 hours!</p>
+</div>
+</body>
+</html>

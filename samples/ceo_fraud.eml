@@ -1,0 +1,33 @@
+Return-Path: <ceo@legitcompany.com>
+Received: from mail.legitcompany.com (mail.legitcompany.com. [203.0.113.50])
+        by mx.victim.com with ESMTPS id xyz789
+        for <accounting@victim.com>; Tue, 20 Feb 2024 09:15:00 +0000 (UTC)
+Authentication-Results: mx.victim.com;
+    dkim=pass header.d=legitcompany.com;
+    spf=pass smtp.mailfrom=ceo@legitcompany.com;
+    dmarc=pass (p=quarantine)
+Message-ID: <ABC123@legitcompany.com>
+Date: Tue, 20 Feb 2024 09:15:00 +0000
+From: "Michael Roberts" <michael.roberts@legitcompany.com>
+To: <accounting@victim.com>
+Subject: Urgent Wire Transfer Needed
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+Hi,
+
+I need you to process an urgent wire transfer for a new vendor we're working with. 
+Can you handle this discreetly? I can't discuss it over email but I'm in a meeting 
+right now and need this done by noon.
+
+Amount: $47,500
+Bank: First National Bank
+Account: 8834729103
+Routing: 021000089
+Beneficiary: Global Solutions LLC
+
+Please confirm once processed. I'll explain everything after.
+
+Thanks,
+Michael Roberts
+CEO

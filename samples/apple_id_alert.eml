@@ -1,0 +1,33 @@
+Return-Path: <noreply@apple-security-alert.com>
+Received: from mx.apple-security-alert.com (mx.apple-security-alert.com. [203.0.113.10])
+        by mx.victim.com with ESMTPS id abc111
+        for <user@victim.com>; Mon, 8 Jan 2024 07:00:00 +0000 (UTC)
+Authentication-Results: mx.victim.com;
+    dkim=fail header.d=apple-security-alert.com;
+    spf=fail;
+    dmarc=fail (p=none) header.from=apple.com
+Message-ID: <Apple-ID-2024-0108@apple-security-alert.com>
+Date: Mon, 8 Jan 2024 07:00:00 +0000
+From: "Apple Support" <support@apple.com>
+Reply-To: <recovery@apple-security-alert.com>
+To: <user@victim.com>
+Subject: Your Apple ID was used to sign in to iCloud on a new device
+MIME-Version: 1.0
+Content-Type: multipart/related; boundary="----=_NextPart_A001"
+
+------=_NextPart_A001
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body style="font-family: -apple-system, BlinkMacSystemFont, sans-serif;">
+<p>Dear Customer,</p>
+<p><strong>Your Apple ID was used to sign in to iCloud on a Windows PC.</strong></p>
+<p>Device: Windows PC<br>Location: Moscow, Russia<br>Time: January 8, 2024 6:58 AM (GMT)</p>
+<p>If this wasn't you, your account may be compromised. Secure it immediately:</p>
+<p><a href="http://appleid-verify-secure.xyz/secure">Verify Identity</a></p>
+<p>If you don't verify within 24 hours, your Apple ID will be permanently disabled.</p>
+<p>Apple Support</p>
+</body>
+</html>
+
+------=_NextPart_A001--

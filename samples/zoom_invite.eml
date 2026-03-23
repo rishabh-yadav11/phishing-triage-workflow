@@ -1,0 +1,34 @@
+Return-Path: <billing@zoom-us-notice.com>
+Received: from mx.zoom-us-notice.com (mx.zoom-us-notice.com. [198.51.100.22])
+        by mx.victim.com with ESMTPS id wxy777
+        for <user@victim.com>; Fri, 9 Feb 2024 14:15:00 +0000 (UTC)
+Authentication-Results: mx.victim.com;
+    dkim=fail header.d=zoom-us-notice.com;
+    spf=fail;
+    dmarc=fail (p=none) header.from=zoom.us
+Message-ID: <ZOOM-MEETING-2024-0209@zoom-us-notice.com>
+Date: Fri, 9 Feb 2024 14:15:00 +0000
+From: "Zoom" <no-reply@zoom.us>
+Reply-To: <host@zoom-us-notice.com>
+To: <user@victim.com>
+Subject: Sarah Johnson is inviting you to a scheduled meeting: Quarterly Review
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body style="font-family: Arial, sans-serif; background-color: #f5f7fa;">
+<div style="max-width: 600px; margin: 0 auto; background: white; padding: 30px; border-radius: 8px;">
+<div style="text-align: center; margin-bottom: 20px;">
+<span style="font-size: 28px; color: #2D8CFF; font-weight: bold;">zoom</span>
+</div>
+<p><strong>Sarah Johnson</strong> is inviting you to a scheduled meeting.</p>
+<div style="background: #f5f7fa; padding: 20px; border-radius: 8px; margin: 20px 0;">
+<p style="margin: 5px 0;"><strong>Topic:</strong> Quarterly Review</p>
+<p style="margin: 5px 0;"><strong>Time:</strong> Feb 12, 2024 2:00 PM EST</p>
+<p style="margin: 5px 0;"><strong>Duration:</strong> 60 minutes</p>
+</div>
+<p><a href="http://zoom-join-meeting.tk/sj-qr24" style="background: #2D8CFF; color: white; padding: 12px 24px; text-decoration: none; border-radius: 4px; display: inline-block;">Join Meeting</a></p>
+<p style="color: #666; font-size: 12px;">Meeting ID: 892 341 5678<br>Passcode: review2024</p>
+</div>
+</body>
+</html>

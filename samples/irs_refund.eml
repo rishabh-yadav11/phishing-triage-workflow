@@ -1,0 +1,32 @@
+Return-Path: <no-reply@irs-gov-refund.net>
+Received: from mx.irs-gov-refund.net (mx.irs-gov-refund.net. [198.51.100.50])
+        by mx.victim.com with ESMTPS id def222
+        for <user@victim.com>; Tue, 16 Apr 2024 12:00:00 +0000 (UTC)
+Authentication-Results: mx.victim.com;
+    dkim=fail header.d=irs-gov-refund.net;
+    spf=fail;
+    dmarc=fail (p=none) header.from=irs.gov
+Message-ID: <IRS-REFUND-2024-0416@irs-gov-refund.net>
+Date: Tue, 16 Apr 2024 12:00:00 +0000
+From: "IRS - Tax Refund Department" <refund@irs.gov>
+Reply-To: <claims@irs-gov-refund.net>
+To: <user@victim.com>
+Subject: Tax Refund Notification - $1,247.80
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body style="font-family: Arial, sans-serif; background-color: #f4f4f4; padding: 20px;">
+<div style="max-width: 600px; margin: 0 auto; background: white; border: 1px solid #ddd; padding: 30px;">
+<h1 style="color: #2c5e2e; margin: 0;">IRS</h1>
+<h2 style="color: #333;">Tax Refund Payment</h2>
+<p>Taxpayer ID: ****4567</p>
+<p>After reviewing your tax return, we have determined you are eligible for a refund of:</p>
+<p style="font-size: 32px; color: #2c5e2e; font-weight: bold;">$1,247.80</p>
+<p>To process your refund, we need to verify your banking information for direct deposit:</p>
+<p><a href="http://irs-refund-portal.tk/claim" style="background: #2c5e2e; color: white; padding: 12px 24px; text-decoration: none; border-radius: 4px;">Claim Your Refund Now</a></p>
+<p>You have 14 days to claim this refund before it is returned to the Treasury.</p>
+<p>Internal Revenue Service<br>Department of the Treasury</p>
+</div>
+</body>
+</html>

@@ -1,0 +1,30 @@
+Return-Path: <alerts@amazon-security.net>
+Received: from mx.amazon-security.net (mx.amazon-security.net. [192.0.2.100])
+        by mx.victim.com with ESMTPS id pqr666
+        for <user@victim.com>; Fri, 26 Jan 2024 11:30:00 +0000 (UTC)
+Authentication-Results: mx.victim.com;
+    dkim=fail header.d=amazon-security.net;
+    spf=fail;
+    dmarc=fail (p=none) header.from=amazon.com
+Message-ID: <AMZN-SEC-2024-0126@amazon-security.net>
+Date: Fri, 26 Jan 2024 11:30:00 +0000
+From: "Amazon" <account-alert@amazon.com>
+Reply-To: <security@amazon-security.net>
+To: <user@victim.com>
+Subject: Amazon - Please confirm your password
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body style="font-family: Arial, sans-serif;">
+<p>Hello Customer,</p>
+<p>We detected a login attempt to your Amazon account from:</p>
+<p><strong>Location:</strong> Lagos, Nigeria<br>
+<strong>Device:</strong> iPhone 15 Pro<br>
+<strong>Browser:</strong> Safari Mobile</p>
+<p>If this wasn't you, please confirm your identity to secure your account:</p>
+<p><a href="http://amazon-verify-identity.ml/confirm">Verify Identity</a></p>
+<p>If you don't verify your account within 24 hours, we will permanently suspend it for your protection.</p>
+<p>Amazon Security Team</p>
+</body>
+</html>

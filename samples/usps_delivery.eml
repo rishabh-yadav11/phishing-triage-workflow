@@ -1,0 +1,40 @@
+Return-Path: <no-reply@usps-delivery-notice.com>
+Received: from mx.usps-delivery-notice.com (mx.usps-delivery-notice.com. [192.0.2.175])
+        by mx.victim.com with ESMTPS id yza999
+        for <user@victim.com>; Wed, 7 Feb 2024 10:45:00 +0000 (UTC)
+Authentication-Results: mx.victim.com;
+    dkim=fail header.d=usps-delivery-notice.com;
+    spf=fail;
+    dmarc=fail (p=none) header.from=usps.com
+Message-ID: <USPS-2024-0207-8821@usps-delivery-notice.com>
+Date: Wed, 7 Feb 2024 10:45:00 +0000
+From: "USPS" <tracking@usps.com>
+Reply-To: <delivery@usps-delivery-notice.com>
+To: <user@victim.com>
+Subject: USPS - Delivery Notification - 9400111899223399881100
+MIME-Version: 1.0
+Content-Type: multipart/related; boundary="----=_NextPart_USPS"
+
+------=_NextPart_USPS
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body style="font-family: Arial, sans-serif; background-color: #f4f4f4;">
+<div style="max-width: 600px; margin: 0 auto; background: white; padding: 30px;">
+<div style="border-bottom: 2px solid #004B87; padding-bottom: 15px; margin-bottom: 20px;">
+<span style="font-size: 24px; font-weight: bold; color: #004B87;">USPS</span>
+</div>
+<p><strong>Delivery Notification</strong></p>
+<p>Your package is waiting at your local post office.</p>
+<p><strong>Tracking Number:</strong> 9400111899223399881100</p>
+<p><strong>Status:</strong> Held for Pickup</p>
+<p><strong>Post Office:</strong> USPS Los Angeles CA</p>
+<p>Please verify your address and pay the redelivery fee ($3.99) to schedule a delivery:</p>
+<p><a href="http://usps-redelivery-portal.ga/schedule" style="background: #004B87; color: white; padding: 12px 24px; text-decoration: none;">Schedule Redelivery</a></p>
+<p>Package will be returned to sender after 5 business days.</p>
+<p>United States Postal Service</p>
+</div>
+</body>
+</html>
+
+------=_NextPart_USPS--

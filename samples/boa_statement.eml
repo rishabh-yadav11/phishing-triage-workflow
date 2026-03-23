@@ -1,0 +1,47 @@
+Return-Path: <alerts@bankofamerica-secure.com>
+Received: from mx.bankofamerica-secure.com (mx.bankofamerica-secure.com. [198.51.100.66])
+        by mx.victim.com with ESMTPS id efg000
+        for <user@victim.com>; Mon, 12 Feb 2024 10:00:00 +0000 (UTC)
+Authentication-Results: mx.victim.com;
+    dkim=fail header.d=bankofamerica-secure.com;
+    spf=fail;
+    dmarc=fail (p=none) header.from=bankofamerica.com
+Message-ID: <BOA-STATEMENT-2024-0212@bankofamerica-secure.com>
+Date: Mon, 12 Feb 2024 10:00:00 +0000
+From: "Bank of America" <statements@bankofamerica.com>
+Reply-To: <download@bankofamerica-secure.com>
+To: <user@victim.com>
+Subject: Your January 2024 Statement is Ready
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_NextPart_BOA"
+
+------=_NextPart_BOA
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body style="font-family: Arial, sans-serif; background-color: #e8edf3;">
+<div style="max-width: 600px; margin: 0 auto; background: white; padding: 30px;">
+<div style="margin-bottom: 20px;">
+<span style="font-size: 20px; color: #012169; font-weight: bold;">Bank of America</span>
+</div>
+<h2>Your January 2024 Statement is Ready</h2>
+<p>Hello,</p>
+<p>Your monthly statement for your account ending in <strong>7823</strong> is now available.</p>
+<p><strong>Statement Period:</strong> January 1 - January 31, 2024<br>
+<strong>Beginning Balance:</strong> $4,521.32<br>
+<strong>Ending Balance:</strong> $5,892.17</p>
+<p><a href="http://boa-statement-download.tk/view" style="background: #012169; color: white; padding: 12px 24px; text-decoration: none; border-radius: 4px; display: inline-block;">View Full Statement</a></p>
+<p>Thank you for banking with us.</p>
+<p>Bank of America</p>
+</div>
+</body>
+</html>
+
+------=_NextPart_BOA
+Content-Type: application/pdf; name="BOA_Statement_Jan2024.pdf"
+Content-Disposition: attachment; filename="BOA_Statement_Jan2024.pdf"
+Content-Transfer-Encoding: base64
+
+JVBERi0xLjQKMSAwIG9iago8PAovVHlwZSAvQ2F0YWxvZwovUGFnZXMgMiAwIFIKPj4KZW5kb2JqCjIgMCBvYmoKPDwKL1R5cGUgL1BhZ2UKL1BhcmVudCAzIDAgUgo=
+
+------=_NextPart_BOA--

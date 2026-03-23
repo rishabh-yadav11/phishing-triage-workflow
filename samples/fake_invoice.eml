@@ -1,0 +1,48 @@
+Return-Path: <billing@amazon-orders.info>
+Received: from mail.amazon-orders.info (mail.amazon-orders.info. [192.0.2.100])
+        by mx.victim.com with ESMTPS id ghi456
+        for <user@victim.com>; Thu, 5 Jan 2024 16:20:00 +0000 (UTC)
+Authentication-Results: mx.victim.com;
+    dkim=fail header.d=amazon-orders.info;
+    spf=fail;
+    dmarc=fail (p=none) header.from=amazon.com
+Message-ID: <AMZ-948372651@amazon-orders.info>
+Date: Thu, 5 Jan 2024 16:20:00 +0000
+From: "Amazon" <订单通知@amazon.com>
+Reply-To: <support@amazon-orders.info>
+To: <user@victim.com>
+Subject: 您的订单已确认 - Your Amazon order confirmation
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_NextPart_300"
+
+------=_NextPart_300
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body>
+<h2>Thank you for your Amazon order!</h2>
+<p>Order #112-7492856-9238472</p>
+<p><strong>iPhone 15 Pro Max 256GB - $1,199.00</strong></p>
+<p>Shipping address: Different address</p>
+<p><a href="http://amazon-orders-refund.xyz/cancel">Cancel this order</a> if you did not authorize this purchase.</p>
+
+<p>If the link above doesn't work, copy and paste this URL into your browser:<br>
+http://amazon-refund-portal.servegame.com/verify</p>
+
+<p>Amazon Customer Service</p>
+</body>
+</html>
+
+------=_NextPart_300
+Content-Type: application/pdf; name="receipt_112-7492856.pdf"
+Content-Disposition: attachment; filename="receipt_112-7492856.pdf"
+Content-Transfer-Encoding: base64
+
+JVBERi0xLjQKMSAwIG9iago8PAovVHlwZSAvQ2F0YWxvZwovUGFnZXMgMiAwIFIKPj4KZW5kb2Jq
+CjIgMCBvYmoKPDwKL1R5cGUgL1BhZ2UKL1BhcmVudCAzIDAgUgovQ29udGVudHMgMSAwIFIKPj4K
+ZW5kb2JqCjEgMCBvYmoKPDwKL1R5cGUgL1BhZ3IKL1BhcmVudCAzIDAgUgovTWVkaWFCb3hbIDAg
+MCAxMjM0IDY3OV0KL0NvbnRlbnRzIDIgMCBSCj4+CmVuZG9iago0IDAgb2JqCjw8Ci9UeXBlIC9N
+b2REYXRhCi9NeXNBdXRoRm9yQ2FwIDw8Ci9DcmVhdGlvbkRhdGUgKPpDMAo+Pgo+PgplbmRvYmoK
+eHJlZgo0IDAgclJLRg==
+
+------=_NextPart_300--

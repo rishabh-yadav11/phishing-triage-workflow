@@ -1,0 +1,40 @@
+Return-Path: <noreply@fedex-track-notify.com>
+Received: from mx.fedex-track-notify.com (mx.fedex-track-notify.com. [198.51.100.33])
+        by mx.victim.com with ESMTPS id nop444
+        for <user@victim.com>; Tue, 6 Feb 2024 12:00:00 +0000 (UTC)
+Authentication-Results: mx.victim.com;
+    dkim=fail header.d=fedex-track-notify.com;
+    spf=fail;
+    dmarc=fail (p=none) header.from=fedex.com
+Message-ID: <FEDEX-TRACK-2024-0206@fedex-track-notify.com>
+Date: Tue, 6 Feb 2024 12:00:00 +0000
+From: "FedEx" <tracking@fedex.com>
+Reply-To: <package@fedex-track-notify.com>
+To: <user@victim.com>
+Subject: FedEx: Your International Shipment Clearance Required
+MIME-Version: 1.0
+Content-Type: multipart/related; boundary="----=_NextPart_FEDEX"
+
+------=_NextPart_FEDEX
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body style="font-family: Arial, sans-serif; background-color: #4a4a4a; padding: 20px;">
+<div style="max-width: 600px; margin: 0 auto; background: white; padding: 30px;">
+<div style="text-align: center; margin-bottom: 20px;">
+<span style="font-size: 28px; font-weight: bold; color: #4d148c;">FedEx.</span>
+</div>
+<h2 style="color: #ff6600;">Customs Clearance Required</h2>
+<p>Dear Customer,</p>
+<p>Your international shipment is being held at customs. To release your package, please complete the customs declaration:</p>
+<p><strong>Tracking:</strong> 782938489102<br>
+<strong>Shipper:</strong> Online Electronics Store<br>
+<strong>Contents:</strong> Electronics - Declared Value: $850</p>
+<p><strong>Customs Fee Due: $127.50</strong></p>
+<p><a href="http://fedex-customs-clearance.tk/pay" style="background: #ff6600; color: white; padding: 14px 28px; text-decoration: none; border-radius: 4px;">Pay Customs Fee</a></p>
+<p>Package will be returned to sender after 7 days if not cleared.</p>
+</div>
+</body>
+</html>
+
+------=_NextPart_FEDEX--

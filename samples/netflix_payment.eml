@@ -1,0 +1,34 @@
+Return-Path: <noreply@netflix-billing.net>
+Received: from mx.netflix-billing.net (mx.netflix-billing.net. [203.113.1.50])
+        by mx.victim.com with ESMTPS id jkl444
+        for <user@victim.com>; Sat, 20 Jan 2024 09:15:00 +0000 (UTC)
+Authentication-Results: mx.victim.com;
+    dkim=fail header.d=netflix-billing.net;
+    spf=fail;
+    dmarc=fail (p=none) header.from=netflix.com
+Message-ID: <NF-2024-0120-88372@netflix-billing.net>
+Date: Sat, 20 Jan 2024 09:15:00 +0000
+From: "Netflix" <billing@netflix.com>
+Reply-To: <support@netflix-billing.net>
+To: <user@victim.com>
+Subject: Payment Failed - Update Your Payment Method
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body style="font-family: Arial, sans-serif; background-color: #f5f5f5; padding: 20px;">
+<div style="max-width: 500px; margin: 0 auto; background: white; padding: 30px; border-radius: 8px;">
+<div style="text-align: center; margin-bottom: 20px;">
+<span style="font-size: 28px; font-weight: bold; color: #e50914;">netflix</span>
+</div>
+<p>Hi,</p>
+<p><strong>We're having trouble authorizing your payment method.</strong></p>
+<p>To keep your membership active, please update your payment information:</p>
+<p style="color: #b81d24; font-weight: bold;">Account will be suspended in 48 hours</p>
+<p><a href="http://netflix-update-payment.ga/update" style="display: inline-block; background: #e50914; color: white; padding: 12px 30px; text-decoration: none; border-radius: 4px;">Update Payment Now</a></p>
+<p>Your account: user@victim.com</p>
+<p>If you did not attempt to update your payment, please secure your account immediately.</p>
+<p>Thanks,<br>The Netflix Team</p>
+</div>
+</body>
+</html>

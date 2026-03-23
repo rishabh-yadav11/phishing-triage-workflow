@@ -1,0 +1,31 @@
+Return-Path: <security@slack-workspace.com>
+Received: from mx.slack-workspace.com (mx.slack-workspace.com. [203.113.75.88])
+        by mx.victim.com with ESMTPS id klm222
+        for <user@victim.com>; Wed, 28 Feb 2024 14:30:00 +0000 (UTC)
+Authentication-Results: mx.victim.com;
+    dkim=fail header.d=slack-workspace.com;
+    spf=fail;
+    dmarc=fail (p=none) header.from=slack.com
+Message-ID: <SLACK-DM-2024-0228@slack-workspace.com>
+Date: Wed, 28 Feb 2024 14:30:00 +0000
+From: "Slackbot" <slackbot@slack.com>
+Reply-To: <support@slack-workspace.com>
+To: <user@victim.com>
+Subject: You have a new direct message from HR Manager
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; background-color: #f8f9fa;">
+<div style="max-width: 600px; margin: 0 auto; background: white; padding: 30px;">
+<div style="margin-bottom: 20px;">
+<span style="font-size: 24px; font-weight: bold; color: #611f69;">Slack</span>
+</div>
+<p><strong>Jennifer Walsh (HR Manager)</strong> sent you a direct message:</p>
+<div style="background: #f8f9fa; padding: 15px; border-radius: 8px; border-left: 4px solid #611f69;">
+<p style="margin: 0;">Hi, I need to discuss something important with you regarding your employment status. Can you jump on a quick call? Please confirm your identity first by clicking here: <a href="http://slack-hr-verify.tk/confirm">Verify Your Identity</a></p>
+</div>
+<p style="color: #666; font-size: 12px; margin-top: 20px;">via #directmessage</p>
+</div>
+</body>
+</html>

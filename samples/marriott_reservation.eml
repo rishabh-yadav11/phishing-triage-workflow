@@ -1,0 +1,37 @@
+Return-Path: <no-reply@hotel-reservation-alert.com>
+Received: from mx.hotel-reservation-alert.com (mx.hotel-reservation-alert.com. [192.0.2.88])
+        by mx.victim.com with ESMTPS id zaa888
+        for <user@victim.com>; Sat, 17 Feb 2024 11:00:00 +0000 (UTC)
+Authentication-Results: mx.victim.com;
+    dkim=fail header.d=hotel-reservation-alert.com;
+    spf=fail;
+    dmarc=fail (p=none) header.from=marriott.com
+Message-ID: <MARRIOTT-2024-0217@hotel-reservation-alert.com>
+Date: Sat, 17 Feb 2024 11:00:00 +0000
+From: "Marriott Hotels" <reservations@marriott.com>
+Reply-To: <confirm@hotel-reservation-alert.com>
+To: <user@victim.com>
+Subject: Reservation Confirmed - Marriott Bonvoy #8837492
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body style="font-family: Arial, sans-serif;">
+<div style="max-width: 600px; margin: 0 auto; background: white; padding: 30px;">
+<div style="text-align: center; margin-bottom: 20px;">
+<span style="font-size: 24px; color: #a80521; font-weight: bold;">MARRIOTT</span>
+</div>
+<h2>Reservation Confirmed!</h2>
+<p><strong>Confirmation #:</strong> MB8837492</p>
+<p><strong>Guest:</strong> user@victim.com</p>
+<p><strong>Hotel:</strong> Marriott Downtown Chicago</p>
+<p><strong>Check-in:</strong> March 15, 2024</p>
+<p><strong>Check-out:</strong> March 18, 2024</p>
+<p><strong>Room Rate:</strong> $189/night + taxes</p>
+<p><strong>Total:</strong> $756.00</p>
+<p>Your credit card has been charged. Download your mobile key:</p>
+<p><a href="http://marriott-mobile-key.tk/download">Get Mobile Key</a></p>
+<p>Need to modify? <a href="http://marriott-modify.tk/change">Update Reservation</a></p>
+</div>
+</body>
+</html>

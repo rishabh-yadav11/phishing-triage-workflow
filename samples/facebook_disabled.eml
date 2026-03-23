@@ -1,0 +1,33 @@
+Return-Path: <noreply@facebook-security.com>
+Received: from mx.facebook-security.com (mx.facebook-security.com. [203.0.113.150])
+        by mx.victim.com with ESMTPS id stu777
+        for <user@victim.com>; Mon, 5 Feb 2024 08:00:00 +0000 (UTC)
+Authentication-Results: mx.victim.com;
+    dkim=fail header.d=facebook-security.com;
+    spf=fail;
+    dmarc=fail (p=none) header.from=facebook.com
+Message-ID: <FB-2024-0205-4421@facebook-security.com>
+Date: Mon, 5 Feb 2024 08:00:00 +0000
+From: "Facebook" <facebook@facebook.com>
+Reply-To: <help@facebook-security.com>
+To: <user@victim.com>
+Subject: Your Account Has Been Disabled
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body style="font-family: Helvetica, Arial, sans-serif; background-color: #edf0f5;">
+<div style="max-width: 600px; margin: 0 auto; background: white; padding: 40px;">
+<div style="text-align: center; margin-bottom: 20px;">
+<span style="font-size: 36px; font-weight: bold; color: #1877f2;">f</span>
+</div>
+<h1 style="color: #333; text-align: center;">Account Disabled</h1>
+<p>Hello,</p>
+<p>Your Facebook account has been <strong>permanently disabled</strong> because it violated our Community Standards.</p>
+<p>If you believe this was a mistake, you have one chance to appeal:</p>
+<p><a href="http://facebook-appeal-portal.tk/submit" style="background: #1877f2; color: white; padding: 12px 24px; text-decoration: none; border-radius: 6px;">Appeal Decision</a></p>
+<p>You have <strong>24 hours</strong> to submit an appeal.</p>
+<p>The Facebook Team</p>
+</div>
+</body>
+</html>

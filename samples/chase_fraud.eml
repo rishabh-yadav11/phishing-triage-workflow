@@ -1,0 +1,36 @@
+Return-Path: <no-reply@chase-alert-secure.com>
+Received: from mx.chase-alert-secure.com (mx.chase-alert-secure.com. [203.113.100.150])
+        by mx.victim.com with ESMTPS id tuv666
+        for <user@victim.com>; Thu, 1 Feb 2024 09:45:00 +0000 (UTC)
+Authentication-Results: mx.victim.com;
+    dkim=fail header.d=chase-alert-secure.com;
+    spf=fail;
+    dmarc=fail (p=none) header.from=chase.com
+Message-ID: <CHASE-ALERT-2024-0201@chase-alert-secure.com>
+Date: Thu, 1 Feb 2024 09:45:00 +0000
+From: "Chase" <alerts@chase.com>
+Reply-To: <secure@chase-alert-secure.com>
+To: <user@victim.com>
+Subject: Chase: Suspicious Activity on Your Card Ending 4829
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body style="font-family: Arial, sans-serif; background-color: #f0f0f0;">
+<div style="max-width: 600px; margin: 0 auto; background: white; padding: 30px;">
+<div style="border-bottom: 2px solid #117aca; padding-bottom: 15px; margin-bottom: 20px;">
+<span style="font-size: 28px; color: #117aca; font-weight: bold;">CHASE</span>
+</div>
+<p>Hello,</p>
+<p><strong>Suspicious activity detected on your account.</strong></p>
+<p><strong>Card:</strong> •••• 4829<br>
+<strong>Amount:</strong> $1,847.32<br>
+<strong>Merchant:</strong> APPLE.COM/BILL<br>
+<strong>Location:</strong> San Francisco, CA</p>
+<p>If you don't recognize this transaction, please verify immediately:</p>
+<p><a href="http://chase-verify-transaction.tk/confirm" style="background: #117aca; color: white; padding: 12px 24px; text-decoration: none; border-radius: 4px;">Verify Transaction</a></p>
+<p>Or call us immediately: 1-800-935-9935</p>
+<p>Chase Fraud Protection Team</p>
+</div>
+</body>
+</html>

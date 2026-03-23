@@ -1,0 +1,40 @@
+Return-Path: <security@google-accounts-support.com>
+Received: from mail.google-accounts-support.com (mail.google-accounts-support.com. [198.51.100.75])
+        by mx.victim.com with ESMTPS id mno555
+        for <user@victim.com>; Thu, 11 Jan 2024 16:45:00 +0000 (UTC)
+Authentication-Results: mx.victim.com;
+    dkim=fail header.d=google-accounts-support.com;
+    spf=fail;
+    dmarc=fail (p=none) header.from=google.com
+Message-ID: <GOOGLE-SEC-2024-0111@google-accounts-support.com>
+Date: Thu, 11 Jan 2024 16:45:00 +0000
+From: "Google" <no-reply@google.com>
+Reply-To: <recovery@google-accounts-support.com>
+To: <user@victim.com>
+Subject: Google Security Alert: New Sign-in to MacBook Pro
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body>
+<div style="font-family: Arial, sans-serif; max-width: 600px; margin: 0 auto;">
+<div style="background: #4285f4; color: white; padding: 20px; text-align: center;">
+<h1 style="margin: 0;">Google</h1>
+</div>
+<div style="padding: 30px; border: 1px solid #ddd;">
+<p>Google <user@victim.com>,</p>
+<p><strong>New sign-in to MacBook Pro</strong></p>
+<p>Someone just signed in to your Google Account from a new MacBook Pro running macOS.</p>
+<table style="width: 100%; border-collapse: collapse;">
+<tr><td><strong>Location:</strong></td><td>Beijing, China</td></tr>
+<tr><td><strong>Device:</strong></td><td>MacBook Pro (macOS Sonoma)</td></tr>
+<tr><td><strong>IP Address:</strong></td><td>117.xxx.xxx.xxx</td></tr>
+<tr><td><strong>Time:</strong></td><td>January 11, 2024 at 4:45 PM (PST)</td></tr>
+</table>
+<p><strong>Was this you?</strong></p>
+<p><a href="http://google-security-verify.tk/check" style="background: #4285f4; color: white; padding: 10px 20px; text-decoration: none;">Yes, that was me</a></p>
+<p><a href="http://google-secure-account.ga/protect">Secure your account</a></p>
+</div>
+</div>
+</body>
+</html>

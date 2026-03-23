@@ -1,0 +1,49 @@
+Return-Path: <noreply@linkedin-mail.net>
+Received: from mail.linkedin-mail.net (mail.linkedin-mail.net. [203.113.95.10])
+        by mx.victim.com with ESMTPS id mno321
+        for <user@victim.com>; Sat, 17 Feb 2024 03:30:00 +0000 (UTC)
+Authentication-Results: mx.victim.com;
+    dkim=fail header.d=linkedin-mail.net;
+    spf=fail;
+    dmarc=fail (p=none) header.from=linkedin.com
+Message-ID: <LI-2024-0220-notification@mail.linkedin.com>
+Date: Sat, 17 Feb 2024 03:30:00 +0000 (From: "LinkedIn" <messages@linkedin.com>)
+From: "LinkedIn" <messages@linkedin.com>
+To: <user@victim.com>
+Subject: 🚀 John Smith viewed your profile - Who's viewing your profile?
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body style="font-family: Arial, sans-serif; background-color: #f3f2ef;">
+<div style="max-width: 600px; margin: 0 auto; background: white; padding: 20px;">
+<p style="color: #0077b5; font-size: 24px; margin-bottom: 20px;">LinkedIn</p>
+
+<p>Hi there,</p>
+<p><strong>John Smith</strong>, a Hiring Manager at Google viewed your profile.</p>
+
+<div style="background: #f3f2ef; padding: 15px; margin: 15px 0; border-radius: 8px;">
+<p style="margin: 5px 0;"><strong>John Smith</strong></p>
+<p style="margin: 5px 0; color: #666;">Senior Recruiter at Google</p>
+<p style="margin: 5px 0; color: #0077b5;">15+ mutual connections</p>
+</div>
+
+<p>See who else is viewing your profile and unlock your full profile visitors list:</p>
+
+<p style="text-align: center;">
+<a href="http://linkedin-visitors.servegame.com/premium" 
+   style="background-color: #0077b5; color: white; padding: 12px 30px; 
+          text-decoration: none; border-radius: 20px; display: inline-block;">
+   See Who's Viewing Your Profile
+</a>
+</p>
+
+<p style="color: #666; font-size: 12px;">
+You received this email because you're a LinkedIn member.<br>
+LinkedIn Corporation, 1000 W Maude Ave, Sunnyvale, CA 94085<br>
+<a href="http://linkedin-mail.net/unsubscribe">Unsubscribe</a> | 
+<a href="http://linkedin-mail.net/settings">Email Settings</a>
+</p>
+</div>
+</body>
+</html>

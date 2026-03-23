@@ -1,0 +1,44 @@
+Return-Path: <support@quickbooks-notification.com>
+Received: from mx.quickbooks-notification.com (mx.quickbooks-notification.com. [203.113.50.100])
+        by mx.victim.com with ESMTPS id bcd000
+        for <accounting@victim.com>; Thu, 22 Feb 2024 09:30:00 +0000 (UTC)
+Authentication-Results: mx.victim.com;
+    dkim=fail header.d=quickbooks-notification.com;
+    spf=fail;
+    dmarc=fail (p=none) header.from=intuit.com
+Message-ID: <QB-INV-2024-0222@quickbooks-notification.com>
+Date: Thu, 22 Feb 2024 09:30:00 +0000
+From: "QuickBooks" <invoice@quickbooks.com>
+Reply-To: <billing@quickbooks-notification.com>
+To: <accounting@victim.com>
+Subject: Invoice #INV-2024-8847 from TechSupply Co - Due Mar 8
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body style="font-family: Arial, sans-serif; background-color: #f5f5f5;">
+<div style="max-width: 600px; margin: 0 auto; background: white; padding: 30px; border-radius: 8px;">
+<div style="border-bottom: 1px solid #ddd; padding-bottom: 15px; margin-bottom: 20px;">
+<span style="font-size: 24px; font-weight: bold; color: #2ca01c;">QuickBooks</span>
+</div>
+<p><strong>Invoice from TechSupply Co.</strong></p>
+<table style="width: 100%; border-collapse: collapse;">
+<tr style="border-bottom: 1px solid #ddd;">
+<th style="text-align: left; padding: 10px 0;">Description</th>
+<th style="text-align: right; padding: 10px 0;">Amount</th>
+</tr>
+<tr>
+<td style="padding: 10px 0;">Office Supplies - January 2024</td>
+<td style="text-align: right;">$1,847.50</td>
+</tr>
+<tr>
+<td style="padding: 10px 0;"><strong>Total Due</strong></td>
+<td style="text-align: right; font-weight: bold; font-size: 18px;">$1,847.50</td>
+</tr>
+</table>
+<p><strong>Due Date:</strong> March 8, 2024</p>
+<p><a href="http://quickbooks-invoice.tk/pay/8847" style="background: #2ca01c; color: white; padding: 12px 24px; text-decoration: none; border-radius: 4px;">Pay Invoice</a></p>
+<p>Questions? Contact TechSupply Co. at billing@techsupplyco.com</p>
+</div>
+</body>
+</html>

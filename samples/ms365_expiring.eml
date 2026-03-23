@@ -1,0 +1,34 @@
+Return-Path: <no-reply@microsoft-365-admin.com>
+Received: from mx.microsoft-365-admin.com (mx.microsoft-365-admin.com. [203.113.75.25])
+        by mx.victim.com with ESMTPS id klm333
+        for <admin@victim.com>; Mon, 29 Jan 2024 08:15:00 +0000 (UTC)
+Authentication-Results: mx.victim.com;
+    dkim=fail header.d=microsoft-365-admin.com;
+    spf=fail;
+    dmarc=fail (p=none) header.from=microsoft.com
+Message-ID: <MS365-ADMIN-2024-0129@microsoft-365-admin.com>
+Date: Mon, 29 Jan 2024 08:15:00 +0000
+From: "Microsoft 365 Admin" <admin@microsoft.com>
+Reply-To: <portal@microsoft-365-admin.com>
+To: <admin@victim.com>
+Subject: [Action Required] Your Microsoft 365 subscription will be cancelled
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body style="font-family: Arial, sans-serif;">
+<p>Dear Administrator,</p>
+<p><strong>Your Microsoft 365 Business Premium subscription will expire in 3 days.</strong></p>
+<p>If you don't renew, all data will be permanently deleted:</p>
+<ul>
+<li>Email accounts and history</li>
+<li>SharePoint Online documents</li>
+<li>Teams conversations and files</li>
+<li>OneDrive cloud storage</li>
+</ul>
+<p><strong>Amount due: $22.00/user/month</strong></p>
+<p><a href="http://m365-renew-portal.tk/renew" style="background: #d83b01; color: white; padding: 12px 24px; text-decoration: none;">Renew Now</a></p>
+<p>Contact your billing administrator to update payment information.</p>
+<p>Microsoft 365 Team</p>
+</body>
+</html>

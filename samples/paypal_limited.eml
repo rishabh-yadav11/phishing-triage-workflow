@@ -1,0 +1,33 @@
+Return-Path: <support@paypal-secure-alert.com>
+Received: from mail.paypal-secure-alert.com (mail.paypal-secure-alert.com. [192.0.2.25])
+        by mx.victim.com with ESMTPS id ghi333
+        for <user@victim.com>; Wed, 3 Jan 2024 14:22:00 +0000 (UTC)
+Authentication-Results: mx.victim.com;
+    dkim=fail header.d=paypal-secure-alert.com;
+    spf=fail;
+    dmarc=fail (p=none) header.from=paypal.com
+Message-ID: <PP-2024-0103-4422@paypal-secure-alert.com>
+Date: Wed, 3 Jan 2024 14:22:00 +0000
+From: "PayPal" <service@paypal.com>
+Reply-To: <disputes@paypal-secure-alert.com>
+To: <user@victim.com>
+Subject: We've Limited Your Account - Action Required
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body>
+<h2 style="color: #003087;">PayPal</h2>
+<p>Hello,</p>
+<p><strong>We've temporarily limited access to your PayPal account.</strong></p>
+<p>Our security team detected unusual activity. To restore full access:</p>
+<ol>
+<li>Review your recent transactions</li>
+<li>Confirm your identity</li>
+<li>Update your payment methods</li>
+</ol>
+<p><a href="http://paypal-verify-account.ml/resolve">Restore Account Access</a></p>
+<p>If you don't complete this verification within 72 hours, your account will be permanently limited and all pending transactions will be cancelled.</p>
+<p>Sincerely,<br>PayPal Security Team</p>
+</body>
+</html>

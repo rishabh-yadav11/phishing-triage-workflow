@@ -1,0 +1,43 @@
+Return-Path: <attacker@new-login-update.com>
+Received: from mail.new-login-update.com (mail.new-login-update.com. [192.168.1.100])
+        by mx.victim.com with ESMTPS id xyz123
+        for <user@victim.com>; Thu, 23 Mar 2024 10:00:00 +0000 (UTC)
+Authentication-Results: mx.victim.com;
+    dkim=fail (bad signature) header.d=new-login-update.com header.s=default header.b=abc;
+    spf=fail (mx.victim.com: domain of attacker@new-login-update.com does not designate 192.168.1.100 as permitted sender) smtp.mailfrom=attacker@new-login-update.com;
+    dmarc=fail (p=none sp=none dis=none) header.from=secure-bank-alert.net
+Message-ID: <1234567890.attacker@new-login-update.com>
+Date: Thu, 23 Mar 2024 10:00:00 +0000
+From: "Bank Support" <support@secure-bank-alert.net>
+Reply-To: <attacker@new-login-update.com>
+To: <user@victim.com>
+Subject: URGENT: Your Account Has Been Suspended
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_NextPart_000_0000"
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0000
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<body>
+<p>Dear Customer,</p>
+<p>Your account has been temporarily suspended due to suspicious activity. =
+Please log in immediately to verify your identity.</p>
+<p>Click here to verify: <a href=3D"http://bit.ly/3xyz789">https://www.yourbank.com/login</a></p>
+<p>Or open the attached document for more details.</p>
+<p>Thank you,<br>Bank Support Team</p>
+</body>
+</html>
+
+------=_NextPart_000_0000
+Content-Type: application/octet-stream; name="invoice_details.exe"
+Content-Disposition: attachment; filename="invoice_details.exe"
+Content-Transfer-Encoding: base64
+
+TVqQAAMAAAAEAAAA//8AALgAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAA=
+
+------=_NextPart_000_0000--

@@ -1,0 +1,36 @@
+Return-Path: <noreply@fedex-delivery.net>
+Received: from mail.fedex-delivery.net (mail.fedex-delivery.net. [10.0.0.50])
+        by mx.victim.com with ESMTPS id abc456
+        for <employee@company.com>; Mon, 15 Jan 2024 14:30:00 +0000 (UTC)
+Authentication-Results: mx.victim.com;
+    dkim=fail header.d=fedex-delivery.net;
+    spf=fail (mx.victim.com: domain of noreply@fedex-delivery.net does not designate 10.0.0.50 as permitted sender);
+    dmarc=fail (p=none) header.from=fedex.com
+Message-ID: <987654321.fedex@fedex-delivery.net>
+Date: Mon, 15 Jan 2024 14:30:00 +0000
+From: "FedEx Delivery" <delivery@fedex.com>
+Reply-To: <package@fedex-delivery.net>
+To: <employee@company.com>
+Subject: Delivery Failed - Action Required (#FK3928471)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_NextPart_100"
+
+------=_NextPart_100
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body>
+<p>Hello,</p>
+<p>Your package delivery has failed. The delivery attempt for tracking number <b>FK3928471</b> was unsuccessful.</p>
+<p>Please confirm your address and schedule a redelivery by clicking the link below:</p>
+<p><a href="http://fedex-redelivery.servegame.com/confirm">Reschedule Delivery</a></p>
+<p>Package Details:<br>
+Weight: 2.5 lbs<br>
+Shipping: Express 2-Day<br>
+Cost: $2.99 (Unpaid)</p>
+<p>You have 48 hours to respond before the package is returned to sender.</p>
+<p>FedEx Customer Service</p>
+</body>
+</html>
+
+------=_NextPart_100--

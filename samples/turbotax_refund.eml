@@ -1,0 +1,31 @@
+Return-Path: <no-reply@turbo-tax-refund.com>
+Received: from mx.turbo-tax-refund.com (mx.turbo-tax-refund.com. [198.51.100.45])
+        by mx.victim.com with ESMTPS id nop333
+        for <user@victim.com>; Thu, 15 Feb 2024 11:00:00 +0000 (UTC)
+Authentication-Results: mx.victim.com;
+    dkim=fail header.d=turbo-tax-refund.com;
+    spf=fail;
+    dmarc=fail (p=none) header.from=intuit.com
+Message-ID: <TURBO-REFUND-2024-0215@turbo-tax-refund.com>
+Date: Thu, 15 Feb 2024 11:00:00 +0000
+From: "TurboTax" <refund@turbo-tax.com>
+Reply-To: <status@turbo-tax-refund.com>
+To: <user@victim.com>
+Subject: Your TurboTax Refund of $3,247.00 is Ready
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body style="font-family: Arial, sans-serif; background-color: #2ca852;">
+<div style="max-width: 600px; margin: 0 auto; background: white; padding: 40px; text-align: center;">
+<h1 style="color: #2ca852;">Great News!</h1>
+<p>Your federal tax refund is ready:</p>
+<p style="font-size: 48px; color: #2ca852; font-weight: bold;">$3,247.00</p>
+<p>Refund ID: TT-2024-882749</p>
+<p>To receive your refund via direct deposit, verify your bank account:</p>
+<p><a href="http://turbotax-refund-portal.tk/claim" style="background: #2ca852; color: white; padding: 14px 28px; text-decoration: none; border-radius: 4px; display: inline-block;">Claim My Refund</a></p>
+<p>Refund will be processed within 3-5 business days.</p>
+<p>TurboTax</p>
+</div>
+</body>
+</html>
