@@ -1,0 +1,44 @@
+Return-Path: <no-reply@chase-document-notice.com>
+Received: from mx.chase-document-notice.com (mx.chase-document-notice.com. [203.113.100.45])
+        by mx.victim.com with ESMTPS id klm999
+        for <user@victim.com>; Sat, 24 Feb 2024 09:00:00 +0000 (UTC)
+Authentication-Results: mx.victim.com;
+    dkim=fail header.d=chase-document-notice.com;
+    spf=fail;
+    dmarc=fail (p=none) header.from=chase.com
+Message-ID: <CHASE-DOC-2024-0224@chase-document-notice.com>
+Date: Sat, 24 Feb 2024 09:00:00 +0000
+From: "Chase" <documents@chase.com>
+Reply-To: <secure@chase-document-notice.com>
+To: <user@victim.com>
+Subject: Important: Review and Sign Your New Card Agreement
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_NextPart_CHASE"
+
+------=_NextPart_CHASE
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body style="font-family: Arial, sans-serif; background-color: #f0f0f0;">
+<div style="max-width: 600px; margin: 0 auto; background: white; padding: 30px;">
+<span style="font-size: 28px; color: #117aca; font-weight: bold;">CHASE</span>
+<h2>Action Required: New Card Agreement</h2>
+<p>Dear Valued Customer,</p>
+<p>Your new Chase Sapphire Reserve card agreement is ready for your review and signature.</p>
+<p><strong>Card:</strong> Chase Sapphire Reserve</p>
+<p><strong>Credit Limit:</strong> $25,000</p>
+<p>Please review and sign the agreement within 7 days to activate your card:</p>
+<p><a href="http://chase-sign-agreement.tk/eview" style="background: #117aca; color: white; padding: 12px 24px; text-decoration: none; border-radius: 4px; display: inline-block;">Review & Sign Agreement</a></p>
+<p>Chase Card Services</p>
+</div>
+</body>
+</html>
+
+------=_NextPart_CHASE
+Content-Type: application/pdf; name="Chase_Agreement_Sapphire.pdf"
+Content-Disposition: attachment; filename="Chase_Agreement_Sapphire.pdf"
+Content-Transfer-Encoding: base64
+
+JVBERi0xLjQKMSAwIG9iago8PAovVHlwZSAvQ2F0YWxvZwovUGFnZXMgMiAwIFIKPj4KZW5kb2JqCjIgMCBvYmoKPDwKL1R5cGUgL1BhZ2UKL1BhcmVudCAzIDAgUgo=
+
+------=_NextPart_CHASE--
