@@ -1,0 +1,36 @@
+Return-Path: <noreply@uber-business-notice.com>
+Received: from mx.uber-business-notice.com (mx.uber-business-notice.com. [203.113.100.88])
+        by mx.victim.com with ESMTPS id tuv444
+        for <user@victim.com>; Thu, 22 Feb 2024 18:00:00 +0000 (UTC)
+Authentication-Results: mx.victim.com;
+    dkim=fail header.d=uber-business-notice.com;
+    spf=fail;
+    dmarc=fail (p=none) header.from=uber.com
+Message-ID: <UBER-BIZ-2024-0222@uber-business-notice.com>
+Date: Thu, 22 Feb 2024 18:00:00 +0000
+From: "Uber for Business" <business@uber.com>
+Reply-To: <expenses@uber-business-notice.com>
+To: <user@victim.com>
+Subject: Your Uber for Business Receipt - Trip to Airport
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body style="font-family: Arial, sans-serif; background-color: #f5f5f5;">
+<div style="max-width: 600px; margin: 0 auto; background: white; padding: 30px;">
+<div style="text-align: center; margin-bottom: 20px;">
+<span style="font-size: 28px; color: #000000; font-weight: bold;">Uber</span>
+<span style="color: #666;"> for Business</span>
+</div>
+<h2>Business Trip Receipt</h2>
+<p><strong>Trip:</strong> Downtown to LAX Airport</p>
+<p><strong>Date:</strong> Feb 22, 2024 at 4:30 PM</p>
+<p><strong>Vehicle:</strong> Toyota Camry (License: 7ABC123)</p>
+<p><strong>Driver:</strong> Mohammad K.</p>
+<p><strong>Distance:</strong> 18.5 miles</p>
+<p><strong>Total:</strong> $42.50</p>
+<p><strong>Payment:</strong> Company Card</p>
+<p><a href="http://uber-receipt-download.tk/get" style="background: #000000; color: white; padding: 12px 24px; text-decoration: none; border-radius: 4px; display: inline-block;">Download Receipt</a></p>
+</div>
+</body>
+</html>

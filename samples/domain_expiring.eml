@@ -1,0 +1,33 @@
+Return-Path: <no-reply@domain-expiration-warning.com>
+Received: from mx.domain-expiration-warning.com (mx.domain-expiration-warning.com. [192.0.2.200])
+        by mx.victim.com with ESMTPS id zaa666
+        for <admin@victim.com>; Sat, 10 Feb 2024 06:00:00 +0000 (UTC)
+Authentication-Results: mx.victim.com;
+    dkim=fail header.d=domain-expiration-warning.com;
+    spf=fail;
+    dmarc=fail (p=none) header.from=godaddy.com
+Message-ID: <DOMAIN-EXPIRE-2024-0210@domain-expiration-warning.com>
+Date: Sat, 10 Feb 2024 06:00:00 +0000
+From: "GoDaddy" <no-reply@godaddy.com>
+Reply-To: <renewals@domain-expiration-warning.com>
+To: <admin@victim.com>
+Subject: URGENT: victim.com Domain Expiring in 48 Hours
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body style="font-family: Arial, sans-serif; background-color: #f5f5f5;">
+<div style="max-width: 600px; margin: 0 auto; background: white; padding: 30px;">
+<div style="text-align: center; margin-bottom: 20px;">
+<span style="font-size: 24px; color: #0072c6; font-weight: bold;">GoDaddy</span>
+</div>
+<h2 style="color: #d83b01;">Domain Expiration Warning</h2>
+<p><strong>Domain:</strong> victim.com</p>
+<p><strong>Expiration Date:</strong> Feb 12, 2024 (48 hours)</p>
+<p><strong>Annual Renewal:</strong> $17.99/year</p>
+<p>Your domain will expire soon. If not renewed, your website and email will stop working!</p>
+<p><a href="http://godaddy-renew-domain.tk/renew" style="background: #0072c6; color: white; padding: 12px 24px; text-decoration: none; border-radius: 4px; display: inline-block;">Renew Now - $17.99</a></p>
+<p style="color: #d83b01;"><strong>Act now to avoid losing your domain!</strong></p>
+</div>
+</body>
+</html>

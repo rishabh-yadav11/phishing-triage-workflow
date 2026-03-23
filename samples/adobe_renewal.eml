@@ -1,0 +1,31 @@
+Return-Path: <no-reply@adobe-creative-notice.com>
+Received: from mx.adobe-creative-notice.com (mx.adobe-creative-notice.com. [198.51.100.211])
+        by mx.victim.com with ESMTPS id wxy444
+        for <user@victim.com>; Mon, 19 Feb 2024 08:00:00 +0000 (UTC)
+Authentication-Results: mx.victim.com;
+    dkim=fail header.d=adobe-creative-notice.com;
+    spf=fail;
+    dmarc=fail (p=none) header.from=adobe.com
+Message-ID: <ADOBE-SUBS-2024-0219@adobe-creative-notice.com>
+Date: Mon, 19 Feb 2024 08:00:00 +0000
+From: "Adobe" <no-reply@adobe.com>
+Reply-To: <subscription@adobe-creative-notice.com>
+To: <user@victim.com>
+Subject: Adobe Creative Cloud - Your Annual Plan Renewal
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body style="font-family: Arial, sans-serif; background-color: #ff0000;">
+<div style="max-width: 600px; margin: 0 auto; background: white; padding: 40px; text-align: center;">
+<span style="font-size: 32px; color: #ff0000; font-weight: bold;">Adobe</span>
+<h2>Your Creative Cloud subscription renews soon</h2>
+<p><strong>Plan:</strong> Creative Cloud All Apps<br>
+<strong>Price:</strong> $599.88/year<br>
+<strong>Renewal Date:</strong> March 1, 2024</p>
+<p>Your payment method will be charged automatically.</p>
+<p><a href="http://adobe-manage-plan.tk/manage" style="background: #ff0000; color: white; padding: 12px 24px; text-decoration: none; border-radius: 4px; display: inline-block;">Manage Subscription</a></p>
+<p>If you cancel, you lose access to Photoshop, Illustrator, Premiere Pro, and more.</p>
+</div>
+</body>
+</html>

@@ -1,0 +1,34 @@
+Return-Path: <no-reply@usps-package-help.com>
+Received: from mx.usps-package-help.com (mx.usps-package-help.com. [203.113.75.66])
+        by mx.victim.com with ESMTPS id klm111
+        for <user@victim.com>; Mon, 26 Feb 2024 14:00:00 +0000 (UTC)
+Authentication-Results: mx.victim.com;
+    dkim=fail header.d=usps-package-help.com;
+    spf=fail;
+    dmarc=fail (p=none) header.from=usps.com
+Message-ID: <USPS-MISSING-2024-0226@usps-package-help.com>
+Date: Mon, 26 Feb 2024 14:00:00 +0000
+From: "USPS" <customer.service@usps.com>
+Reply-To: <help@usps-package-help.com>
+To: <user@victim.com>
+Subject: USPS - Missing Information for Your Package Delivery
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body style="font-family: Arial, sans-serif;">
+<div style="max-width: 600px; margin: 0 auto; background: white; padding: 30px;">
+<div style="border-bottom: 2px solid #004B87; padding-bottom: 15px; margin-bottom: 20px;">
+<span style="font-size: 24px; font-weight: bold; color: #004B87;">USPS</span>
+</div>
+<h2 style="color: #c8102e;">Action Required: Missing Address Information</h2>
+<p>Dear Customer,</p>
+<p>We attempted to deliver your package but were unable to complete delivery due to missing address information.</p>
+<p><strong>Tracking Number:</strong> 9400111899223344556677<br>
+<strong>Issue:</strong> Apartment/Suite number missing</p>
+<p>Please confirm your complete address to schedule redelivery:</p>
+<p><a href="http://usps-address-confirm.tk/update" style="background: #004B87; color: white; padding: 12px 24px; text-decoration: none; border-radius: 4px; display: inline-block;">Confirm Address</a></p>
+<p>Package will be returned to sender in 5 business days.</p>
+</div>
+</body>
+</html>

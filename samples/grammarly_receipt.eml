@@ -1,0 +1,35 @@
+Return-Path: <support@grammarly-account.com>
+Received: from mx.grammarly-account.com (mx.grammarly-account.com. [192.0.2.92])
+        by mx.victim.com with ESMTPS id hij000
+        for <user@victim.com>; Sat, 24 Feb 2024 09:30:00 +0000 (UTC)
+Authentication-Results: mx.victim.com;
+    dkim=fail header.d=grammarly-account.com;
+    spf=fail;
+    dmarc=fail (p=none) header.from=grammarly.com
+Message-ID: <GRAMMARLY-2024-0224@grammarly-account.com>
+Date: Sat, 24 Feb 2024 09:30:00 +0000
+From: "Grammarly" <no-reply@grammarly.com>
+Reply-To: <help@grammarly-account.com>
+To: <user@victim.com>
+Subject: Your Grammarly Subscription Receipt - $144.00
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body style="font-family: Arial, sans-serif; background-color: #f5f5f5;">
+<div style="max-width: 600px; margin: 0 auto; background: white; padding: 30px;">
+<div style="text-align: center; margin-bottom: 20px;">
+<span style="font-size: 24px; color: #15c39a; font-weight: bold;">Grammarly</span>
+</div>
+<h2>Thank you for your subscription!</h2>
+<p><strong>Premium Annual Subscription</strong></p>
+<p><strong>Amount Charged:</strong> $144.00</p>
+<p><strong>Date:</strong> Feb 24, 2024</p>
+<p><strong>Next billing date:</strong> Feb 24, 2025</p>
+<p>Your subscription has been renewed. Download your receipt:</p>
+<p><a href="http://grammarly-receipt.tk/download" style="background: #15c39a; color: white; padding: 12px 24px; text-decoration: none; border-radius: 4px; display: inline-block;">Download Receipt</a></p>
+<p>If you did not authorize this charge, cancel immediately:</p>
+<p><a href="http://grammarly-cancel.tk/manage">Manage Subscription</a></p>
+</div>
+</body>
+</html>

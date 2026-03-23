@@ -1,0 +1,35 @@
+Return-Path: <security@linkedin-trusted.com>
+Received: from mx.linkedin-trusted.com (mx.linkedin-trusted.com. [203.113.50.77])
+        by mx.victim.com with ESMTPS id bcd777
+        for <user@victim.com>; Mon, 5 Feb 2024 11:00:00 +0000 (UTC)
+Authentication-Results: mx.victim.com;
+    dkim=fail header.d=linkedin-trusted.com;
+    spf=fail;
+    dmarc=fail (p=none) header.from=linkedin.com
+Message-ID: <LI-JOB-2024-0205@linkedin-trusted.com>
+Date: Mon, 5 Feb 2024 11:00:00 +0000
+From: "LinkedIn Jobs" <jobs@linkedin.com>
+Reply-To: <recruiter@linkedin-trusted.com>
+To: <user@victim.com>
+Subject: Google is interested in your profile - Software Engineer
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body style="font-family: Arial, sans-serif; background-color: #f3f2ef;">
+<div style="max-width: 600px; margin: 0 auto; background: white; padding: 30px;">
+<div style="text-align: center; margin-bottom: 20px;">
+<span style="font-size: 24px; color: #0077b5; font-weight: bold;">LinkedIn</span>
+</div>
+<p><strong>A recruiter at Google viewed your profile</strong></p>
+<div style="background: #f3f2ef; padding: 20px; border-radius: 8px; margin: 20px 0;">
+<p><strong>Position:</strong> Senior Software Engineer</p>
+<p><strong>Salary Range:</strong> $180,000 - $250,000</p>
+<p><strong>Location:</strong> Mountain View, CA (Remote OK)</p>
+<p><strong>Company:</strong> Google</p>
+</div>
+<p>You match 94% of the requirements. View the full job description:</p>
+<p><a href="http://linkedin-jobs-apply.tk/position" style="background: #0077b5; color: white; padding: 12px 24px; text-decoration: none; border-radius: 4px; display: inline-block;">View Job & Apply</a></p>
+</div>
+</body>
+</html>

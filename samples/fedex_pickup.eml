@@ -1,0 +1,31 @@
+Return-Path: <no-reply@fedex-shipment-update.com>
+Received: from mx.fedex-shipment-update.com (mx.fedex-shipment-update.com. [192.0.2.77])
+        by mx.victim.com with ESMTPS id qrs222
+        for <user@victim.com>; Sat, 17 Feb 2024 09:00:00 +0000 (UTC)
+Authentication-Results: mx.victim.com;
+    dkim=fail header.d=fedex-shipment-update.com;
+    spf=fail;
+    dmarc=fail (p=none) header.from=fedex.com
+Message-ID: <FEDEX-PICKUP-2024-0217@fedex-shipment-update.com>
+Date: Sat, 17 Feb 2024 09:00:00 +0000
+From: "FedEx Ground" <tracking@fedex.com>
+Reply-To: <schedule@fedex-shipment-update.com>
+To: <user@victim.com>
+Subject: FedEx: Schedule Your Package Pickup
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body style="font-family: Arial, sans-serif;">
+<div style="max-width: 600px; margin: 0 auto; background: white; padding: 30px;">
+<span style="font-size: 24px; color: #4d148c; font-weight: bold;">FedEx.</span>
+<h2>Schedule a Pickup</h2>
+<p>You have a shipment ready for pickup.</p>
+<p><strong>Tracking:</strong> 748937489102<br>
+<strong>Shipper:</strong> Amazon Fulfillment</p>
+<p>Schedule a convenient pickup time:</p>
+<p><a href="http://fedex-schedule-pickup.tk/book" style="background: #ff6600; color: white; padding: 12px 24px; text-decoration: none; border-radius: 4px; display: inline-block;">Schedule Pickup</a></p>
+<p style="color: #666; font-size: 12px;">Pickup fee: $4.99</p>
+</div>
+</body>
+</html>

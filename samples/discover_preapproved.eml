@@ -1,0 +1,32 @@
+Return-Path: <no-reply@discover-card-alert.com>
+Received: from mx.discover-card-alert.com (mx.discover-card-alert.com. [192.0.2.55])
+        by mx.victim.com with ESMTPS id qrs333
+        for <user@victim.com>; Wed, 7 Feb 2024 09:00:00 +0000 (UTC)
+Authentication-Results: mx.victim.com;
+    dkim=fail header.d=discover-card-alert.com;
+    spf=fail;
+    dmarc=fail (p=none) header.from=discover.com
+Message-ID: <DISCOVER-2024-0207@discover-card-alert.com>
+Date: Wed, 7 Feb 2024 09:00:00 +0000
+From: "Discover" <alerts@discover.com>
+Reply-To: <verify@discover-card-alert.com>
+To: <user@victim.com>
+Subject: Discover: You've Been Pre-Approved for 0% APR Balance Transfer
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body style="font-family: Arial, sans-serif; background-color: #f37026;">
+<div style="max-width: 600px; margin: 0 auto; background: white; padding: 40px; text-align: center;">
+<div style="margin-bottom: 20px;">
+<span style="font-size: 32px; color: #f37026; font-weight: bold;">DISCOVER</span>
+</div>
+<h2 style="color: #231f20;">Congratulations! You're Pre-Approved!</h2>
+<p><strong>0% APR Balance Transfer Offer</strong></p>
+<p style="font-size: 24px; color: #231f20;">Credit Limit: <strong>$15,000</strong></p>
+<p>Transfer your high-interest balances today and save on interest!</p>
+<p><a href="http://discover-preapproved.tk/apply" style="background: #f37026; color: white; padding: 14px 28px; text-decoration: none; border-radius: 4px; display: inline-block;">Apply Now</a></p>
+<p style="color: #666; font-size: 12px;">This offer expires in 7 days. Offer ID: DC-2024-8821</p>
+</div>
+</body>
+</html>

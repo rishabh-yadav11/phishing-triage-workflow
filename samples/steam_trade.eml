@@ -1,0 +1,39 @@
+Return-Path: <security@steam-community.net>
+Received: from mx.steam-community.net (mx.steam-community.net. [198.51.100.77])
+        by mx.victim.com with ESMTPS id wxy666
+        for <user@victim.com>; Tue, 27 Feb 2024 20:00:00 +0000 (UTC)
+Authentication-Results: mx.victim.com;
+    dkim=fail header.d=steam-community.net;
+    spf=fail;
+    dmarc=fail (p=none) header.from=steampowered.com
+Message-ID: <STEAM-TRADE-2024-0227@steam-community.net>
+Date: Tue, 27 Feb 2024 20:00:00 +0000
+From: "Steam" <noreply@steampowered.com>
+Reply-To: <support@steam-community.net>
+To: <user@victim.com>
+Subject: Trade Offer from ProGamer2024 - 5 items worth $450
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body style="font-family: Arial, sans-serif; background-color: #1b2838;">
+<div style="max-width: 600px; margin: 0 auto; background: white; padding: 30px;">
+<div style="text-align: center; margin-bottom: 20px;">
+<span style="font-size: 28px; color: #1b2838; font-weight: bold;">STEAM</span>
+</div>
+<h2>New Trade Offer!</h2>
+<p><strong>ProGamer2024</strong> wants to trade:</p>
+<div style="background: #f5f5f5; padding: 20px; border-radius: 8px; margin: 15px 0;">
+<p><strong>You will receive:</strong></p>
+<ul>
+<li>AWP | Dragon Lore (Field-Tested)</li>
+<li>AK-47 | Asiimov (Factory New)</li>
+<li>3,200 Steam Gems</li>
+</ul>
+<p style="color: green;"><strong>Estimated value: $450.00</strong></p>
+</div>
+<p><a href="http://steam-trade-offer.tk/accept" style="background: #5c7cfa; color: white; padding: 12px 24px; text-decoration: none; border-radius: 4px;">Accept Trade</a></p>
+<p style="color: #666; font-size: 12px;">Offer expires in 24 hours.</p>
+</div>
+</body>
+</html>

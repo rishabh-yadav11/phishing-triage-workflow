@@ -1,0 +1,32 @@
+Return-Path: <noreply@facebook-marketplace.com>
+Received: from mx.facebook-marketplace.com (mx.facebook-marketplace.com. [198.51.100.155])
+        by mx.victim.com with ESMTPS id efg777
+        for <user@victim.com>; Thu, 22 Feb 2024 15:00:00 +0000 (UTC)
+Authentication-Results: mx.victim.com;
+    dkim=fail header.d=facebook-marketplace.com;
+    spf=fail;
+    dmarc=fail (p=none) header.from=facebook.com
+Message-ID: <FB-MARKET-2024-0222@facebook-marketplace.com>
+Date: Thu, 22 Feb 2024 15:00:00 +0000
+From: "Facebook Marketplace" <no-reply@marketplace.facebook.com>
+Reply-To: <support@facebook-marketplace.com>
+To: <user@victim.com>
+Subject: You have a new message about your listing: MacBook Pro
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body style="font-family: Helvetica, Arial, sans-serif;">
+<div style="max-width: 600px; margin: 0 auto; background: white; padding: 30px;">
+<div style="text-align: center; margin-bottom: 20px;">
+<span style="font-size: 36px; color: #1877f2;">f</span>
+</div>
+<h2>New Message on Marketplace</h2>
+<p><strong>Michael Brown</strong> is interested in your MacBook Pro listing ($1,800):</p>
+<div style="background: #f5f5f5; padding: 15px; border-radius: 8px;">
+<p style="margin: 0;">"Hi! Is this still available? I can pay via PayPal and will cover shipping. Can you send me more photos?"</p>
+</div>
+<p><a href="http://facebook-marketplace-chat.tk/message" style="background: #1877f2; color: white; padding: 12px 24px; text-decoration: none; border-radius: 4px; display: inline-block;">Reply to Message</a></p>
+</div>
+</body>
+</html>

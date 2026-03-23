@@ -1,0 +1,27 @@
+Return-Path: <no-reply@google-drive-alert.com>
+Received: from mx.google-drive-alert.com (mx.google-drive-alert.com. [198.51.100.99])
+        by mx.victim.com with ESMTPS id efg888
+        for <user@victim.com>; Tue, 20 Feb 2024 10:30:00 +0000 (UTC)
+Authentication-Results: mx.victim.com;
+    dkim=fail header.d=google-drive-alert.com;
+    spf=fail;
+    dmarc=fail (p=none) header.from=google.com
+Message-ID: <GDRIVE-SHARE-2024-0220@google-drive-alert.com>
+Date: Tue, 20 Feb 2024 10:30:00 +0000
+From: "Google Drive" <drive-shared@google.com>
+Reply-To: <files@google-drive-alert.com>
+To: <user@victim.com>
+Subject: David Chen shared "Employee_Salary_Data_2024.xlsx" with you
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body style="font-family: Arial, sans-serif;">
+<p><strong>David Chen</strong> invited you to view a file:</p>
+<div style="background: #f5f5f5; padding: 15px; border-radius: 8px; margin: 15px 0;">
+<p style="margin: 0;"><strong>Employee_Salary_Data_2024.xlsx</strong></p>
+<p style="color: #666; margin: 5px 0;">Google Sheets - Updated just now</p>
+</div>
+<p><a href="http://google-drive-view.tk/open" style="background: #4285f4; color: white; padding: 10px 20px; text-decoration: none; border-radius: 4px; display: inline-block;">Open in Google Drive</a></p>
+</body>
+</html>

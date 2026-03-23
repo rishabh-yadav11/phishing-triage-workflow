@@ -1,0 +1,31 @@
+Return-Path: <support@icloud-findmy-alert.com>
+Received: from mx.icloud-findmy-alert.com (mx.icloud-findmy-alert.com. [192.0.2.199])
+        by mx.victim.com with ESMTPS id hij888
+        for <user@victim.com>; Fri, 23 Feb 2024 07:00:00 +0000 (UTC)
+Authentication-Results: mx.victim.com;
+    dkim=fail header.d=icloud-findmy-alert.com;
+    spf=fail;
+    dmarc=fail (p=none) header.from=apple.com
+Message-ID: <ICLOUD-PLAY-2024-0223@icloud-findmy-alert.com>
+Date: Fri, 23 Feb 2024 07:00:00 +0000
+From: "Find My iPhone" <findmy@icloud.com>
+Reply-To: <sound@icloud-findmy-alert.com>
+To: <user@victim.com>
+Subject: Play Sound Requested on Your iPhone
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body style="font-family: Arial, sans-serif; background-color: #f5f5f5;">
+<div style="max-width: 600px; margin: 0 auto; background: white; padding: 30px;">
+<div style="text-align: center; margin-bottom: 20px;">
+<span style="font-size: 28px; color: #333; font-weight: bold;">Find My</span>
+</div>
+<h2>Play Sound Activated</h2>
+<p>A play sound was requested on your <strong>iPhone 15 Pro</strong>.</p>
+<p>This helps locate your device if it's nearby.</p>
+<p>Location: <strong>Chicago, IL</strong></p>
+<p><a href="http://icloud-view-location.tk/find" style="background: #0071e3; color: white; padding: 12px 24px; text-decoration: none; border-radius: 4px; display: inline-block;">View Location on Map</a></p>
+</div>
+</body>
+</html>

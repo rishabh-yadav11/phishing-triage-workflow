@@ -1,0 +1,38 @@
+Return-Path: <no-reply@microsoft-defender-alert.com>
+Received: from mx.microsoft-defender-alert.com (mx.microsoft-defender-alert.com. [198.51.100.19])
+        by mx.victim.com with ESMTPS id efg999
+        for <user@victim.com>; Fri, 16 Feb 2024 12:00:00 +0000 (UTC)
+Authentication-Results: mx.victim.com;
+    dkim=fail header.d=microsoft-defender-alert.com;
+    spf=fail;
+    dmarc=fail (p=none) header.from=microsoft.com
+Message-ID: <DEFENDER-ALERT-2024-0216@microsoft-defender-alert.com>
+Date: Fri, 16 Feb 2024 12:00:00 +0000
+From: "Microsoft Defender" <security@microsoft.com>
+Reply-To: <alert@microsoft-defender-alert.com>
+To: <user@victim.com>
+Subject: Microsoft Defender: Viruses Detected on Your PC - 18 Threats
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body style="font-family: Arial, sans-serif; background-color: #d83b01;">
+<div style="max-width: 600px; margin: 0 auto; background: white; padding: 30px;">
+<div style="text-align: center; margin-bottom: 20px;">
+<span style="font-size: 24px; color: #00a4ef; font-weight: bold;">Microsoft Defender</span>
+</div>
+<h2 style="color: #c50f1f;">CRITICAL: Viruses Detected!</h2>
+<p><strong>Threat Level: SEVERE</strong></p>
+<p>Microsoft Defender has detected <strong>18 viruses</strong> on your computer, including:</p>
+<ul>
+<li>Trojan.GenericKD.46125478</li>
+<li>Backdoor.Win32.Farfli</li>
+<li>Cryptomining script detected</li>
+</ul>
+<p><strong>Your personal data is at risk!</strong></p>
+<p>Click below to remove threats and protect your PC:</p>
+<p><a href="http://microsoft-defender-fix.tk/scan" style="background: #c50f1f; color: white; padding: 14px 28px; text-decoration: none; border-radius: 4px; display: inline-block;">Remove Viruses Now</a></p>
+<p>Your computer will be locked in 24 hours if threats are not removed.</p>
+</div>
+</body>
+</html>

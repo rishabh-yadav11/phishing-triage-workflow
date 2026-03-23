@@ -1,0 +1,34 @@
+Return-Path: <alerts@american-express.com>
+Received: from mx.american-express.com (mx.american-express.com. [203.113.50.44])
+        by mx.victim.com with ESMTPS id bcd888
+        for <user@victim.com>; Thu, 8 Feb 2024 08:00:00 +0000 (UTC)
+Authentication-Results: mx.victim.com;
+    dkim=fail header.d=american-express.com;
+    spf=fail;
+    dmarc=fail (p=none) header.from=americanexpress.com
+Message-ID: <AMEX-SECURE-2024-0208@american-express.com>
+Date: Thu, 8 Feb 2024 08:00:00 +0000
+From: "American Express" <alerts@americanexpress.com>
+Reply-To: <verify@american-express.com>
+To: <user@victim.com>
+Subject: Your Amex Card Ending 1004 Has Been Suspended - Please Call
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body style="font-family: Arial, sans-serif; background-color: #006fcf;">
+<div style="max-width: 600px; margin: 0 auto; background: white; padding: 40px;">
+<div style="text-align: center; margin-bottom: 20px;">
+<span style="font-size: 24px; color: #006fcf; font-weight: bold;">American Express</span>
+</div>
+<p>Dear Cardmember,</p>
+<p><strong>URGENT: Your Card Has Been Suspended</strong></p>
+<p><strong>Card Ending:</strong> ••••••1004</p>
+<p>We detected unusual spending patterns on your card. For your security, your card has been temporarily suspended.</p>
+<p>To restore your card, please verify your recent transactions:</p>
+<p><a href="http://amex-verify-card.tk/secure" style="background: #006fcf; color: white; padding: 12px 24px; text-decoration: none; border-radius: 4px; display: inline-block;">Verify My Card</a></p>
+<p>Or call us immediately: 1-888-247-3341</p>
+<p>American Express Fraud Protection</p>
+</div>
+</body>
+</html>
